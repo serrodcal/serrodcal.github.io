@@ -11,12 +11,12 @@ A continuación, podrás descubrir quiénes están detras de este proyecto:
 
 ## Noelia Santos
 
-...
+Rellenar.
 
 ## Joaquín de Vicente
 
-...
+Rellenar.
 
 ## Sergio Rodríguez
 
-...
+Rellenar.

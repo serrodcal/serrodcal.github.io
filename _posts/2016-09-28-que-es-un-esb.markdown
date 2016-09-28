@@ -29,6 +29,8 @@ Un ESB (Enterprise Service Bus) no es más que un componente que como ya hemos d
 
 Son más de 60 patrones que son soportados por casi la totalidad de los ESBs, aunque aquí vayamos a hablar solamente de WSO2 ESB.
 
+[![1](http://www.enterpriseintegrationpatterns.com/img/inside_back_cover.png)](http://www.enterpriseintegrationpatterns.com/img/inside_back_cover.png)
+
 Por ejemplo, si necesitamos exponer servicios legados que exponen recursos mediante el protocolo SOAP, pero queremos que las aplicaciones, sean de la plataforma que sean, hablen el protocolo REST, hemos dado con la herramienta indicada. Se pueden hacer muchas cosas más, y las cuales se irán viendo en sucesivas entradas.
 
 Para terminar, hay críticas hacia este tipo de soluciones que argumentan que es un cuello de botella, que puede retrasar desarrollos, etc. La verdad es que aunque se hable de tener un ESB, en realidad se puede tener un cluster de ellos, y por otro lado, puede aportar muchas cosas que se irán comentando en adelante. Además, la manera de exponer la serie de entradas sigue un orden que precisamente intenta ayudar a quiénes son nuevos con este tipo de productos no cometa errores que lleven a tener este tipo de ideas.
